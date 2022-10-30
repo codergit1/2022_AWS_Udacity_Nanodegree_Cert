@@ -1,2 +1,2 @@
 # 2022_AWS_Udacity_Nanodegree_Cert
-AWS x Udacity Nanodegree Fundamentals Certificate 2022
+October 2022: AWS x Udacity Nanodegree Fundamentals Certificate 2022
